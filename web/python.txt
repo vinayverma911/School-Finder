@@ -1,0 +1,13 @@
+Enter first number:12
+Enter second number:2
+GCDof 12 and 2 is 2
+
+...Program finished with exit code 0 
+
+
+
+Enter first number:30
+Enter second number:25
+GCDof 30 and 25 is 5
+
+...Program finished with exit code 0 
